@@ -84,7 +84,7 @@ select {
   border-radius: 16px;
   background: linear-gradient(135deg, #1f6fe5 0%, #7bc7ff 100%);
   color: #fff;
-  font-family: "Space Grotesk", sans-serif;
+  font-family: "Inter Tight", sans-serif;
   font-size: 1.35rem;
   font-weight: 700;
   box-shadow: var(--shadow-md);
